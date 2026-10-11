@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-11 16:45">
+  <shop>
+    <name>Чайный почерк</name>
+    <company>Чайный почерк</company>
+    <url>https://vk.com/club242190364</url>
+    <currencies><currency id="RUB" rate="1" /></currencies>
+    <categories><category id="10">Чай</category></categories>
+    <offers>
+      <offer id="CP-SHENG-FARM-235-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шен пуэр фермерский 235 — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-farm-235.jpg?retry=20261011b</picture>
+        <price>490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">490 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHENG-TOCHA-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шен пуэр То Ча — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-tocha.jpg?retry=20261011b</picture>
+        <price>400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">400 ₽ за 50 г</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
