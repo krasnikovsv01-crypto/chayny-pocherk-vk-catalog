@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-11 15:37">
+  <shop>
+    <name>Чайный почерк</name>
+    <company>Чайный почерк</company>
+    <url>https://vk.com/club242190364</url>
+    <currencies><currency id="RUB" rate="1" /></currencies>
+    <categories>
+      <category id="10">Чай</category>
+    </categories>
+    <offers>
+      <offer id="CP-MILK-OOLONG-FUJIAN-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Молочный улун Фуцзянь — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Молочный улун Фуцзянь — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/milk-oolong-fujian.jpg</picture>
+        <price>210</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">210 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-TIEGUANYIN-FUJIAN-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Те Гуань Инь Фуцзянь — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Те Гуань Инь Фуцзянь — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/tieguanyin-fujian.jpg</picture>
+        <price>380</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">380 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-GABA-FARM-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — ГАБА фермерская — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. ГАБА фермерская — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-farm.jpg</picture>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">590 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-GABA-RED-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Красная ГАБА — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Красная ГАБА — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-red.jpg</picture>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">590 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-DAHONGPAO-MEDIUM-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Да Хун Пао, средняя прожарка — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Да Хун Пао, средняя прожарка — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/dahongpao-medium.jpg</picture>
+        <price>550</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">550 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHU-PUER-FIVE-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шу пуэр 5-летний — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Шу пуэр 5-летний — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/shu-puer-five.jpg</picture>
+        <price>320</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">320 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHENG-PUER-FARM-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шен пуэр фермерский — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Шен пуэр фермерский — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-farm.jpg</picture>
+        <price>390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">390 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-DIANHONG-FARM-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Дянь Хун фермерский — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Дянь Хун фермерский — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/dianhong-farm.jpg</picture>
+        <price>430</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">430 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-MOLI-HUACHA-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Моли Хуа Ча Фуцзянь — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Моли Хуа Ча Фуцзянь — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/moli-huacha.jpg</picture>
+        <price>230</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">230 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-EARL-GREY-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Эрл Грей — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Эрл Грей — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/earl-grey.jpg</picture>
+        <price>240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">240 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-BLACK-THYME-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Чёрный с чабрецом — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Чёрный с чабрецом — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/black-thyme.jpg</picture>
+        <price>199</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">199 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-CHERRY-PUNCH-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Вишнёвый пунш — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Вишнёвый пунш — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/cherry-punch.jpg</picture>
+        <price>210</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">210 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-QUINCE-PEACH-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Айва с персиком — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Айва с персиком — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/quince-peach.jpg</picture>
+        <price>290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">290 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-STRAWBERRY-CREAM-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Земляника со сливками — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Земляника со сливками — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/strawberry-cream.jpg</picture>
+        <price>270</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">270 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-MULLED-SPICE-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Глинтвейн — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Глинтвейн — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/mulled-spice.jpg</picture>
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">250 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-CHERRY-PUER-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Вишня на пуэре — 50 г</name>
+        <description>Чай для заваривания. Категория: продукты питания, чай. Под заказ. Перед оплатой уточните наличие и сроки отправки в сообщениях сообщества. Вишня на пуэре — 50 г. Фасовка 50 г. Изображение является художественной иллюстрацией, созданной ИИ, и не передаёт точный внешний вид конкретной партии. Состав и характеристики уточняются до оформления заказа.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/cherry-puer.jpg</picture>
+        <price>290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">290 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHU-3Y-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шу пуэр 3-летний (890) — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/shu-puer-3y.jpg</picture>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">200 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHU-15Y-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шу пуэр 15-летний (240) — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/shu-puer-15y.jpg</picture>
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">480 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHENG-FARM-235-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шен пуэр фермерский 235 — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-farm-235.jpg</picture>
+        <price>490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">490 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-SHENG-TOCHA-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Шен пуэр То Ча — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-tocha.jpg</picture>
+        <price>400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">400 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-GABA-SHENG-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — ГАБА Шен — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-sheng.jpg</picture>
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">750 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-BILUOCHUN-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Би Ло Чунь — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/bi-luo-chun.jpg</picture>
+        <price>670</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">670 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-LONGJING-FUJIAN-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Лунцзин Фуцзянь — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/longjing-fujian.jpg</picture>
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">480 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-BAIMUDAN-FUJIAN-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Бай Му Дань Фуцзянь — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/bai-mu-dan-fujian.jpg</picture>
+        <price>360</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">360 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-BAIHAO-YINZHEN-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Бай Хао Инь Чжень — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/bai-hao-yin-zhen.jpg</picture>
+        <price>1340</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">1340 ₽ за 50 г</param>
+      </offer>
+      <offer id="CP-GOLDEN-NEEDLE-FARM-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Чай — Золотая игла фермерская — 50 г</name>
+        <description>Чай для заваривания. Под заказ: наличие, характеристики партии и сроки отправки уточняйте в сообщениях сообщества до оплаты. Фасовка 50 г. Художественная ИИ-иллюстрация не является фотографией конкретной партии.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/golden-needle-farm.jpg</picture>
+        <price>720</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+        <param name="Цена">720 ₽ за 50 г</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
