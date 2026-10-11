@@ -6,16 +6,7 @@
     <url>https://vk.com/club242190364</url>
     <currencies><currency id="RUB" rate="1" /></currencies>
     <categories>
-      <category id="8">Продукты питания</category>
-      <category id="9" parentId="8">Чай, кофе, какао</category>
-      <category id="10" parentId="9">Чай</category>
-      <category id="11" parentId="10">Чай улун</category>
-      <category id="12" parentId="10">Чай ГАБА</category>
-      <category id="13" parentId="10">Чай пуэр</category>
-      <category id="14" parentId="10">Чай красный</category>
-      <category id="15" parentId="10">Чай зелёный</category>
-      <category id="16" parentId="10">Чай ароматизированный</category>
-      <category id="17" parentId="10">Чайные купажи</category>
+      <category id="10">Чай</category>
     </categories>
     <offers>
       <offer id="CP-MILK-OOLONG-FUJIAN-050" available="true">
@@ -25,7 +16,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/milk-oolong-fujian.jpg</picture>
         <price>210</price>
         <currencyId>RUB</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">210 ₽ за 50 г</param>
@@ -37,7 +28,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/tieguanyin-fujian.jpg</picture>
         <price>380</price>
         <currencyId>RUB</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">380 ₽ за 50 г</param>
@@ -49,7 +40,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-farm.jpg</picture>
         <price>590</price>
         <currencyId>RUB</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">590 ₽ за 50 г</param>
@@ -61,7 +52,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-red.jpg</picture>
         <price>590</price>
         <currencyId>RUB</currencyId>
-        <categoryId>12</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">590 ₽ за 50 г</param>
@@ -73,7 +64,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/dahongpao-medium.jpg</picture>
         <price>550</price>
         <currencyId>RUB</currencyId>
-        <categoryId>11</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">550 ₽ за 50 г</param>
@@ -85,7 +76,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/shu-puer-five.jpg</picture>
         <price>320</price>
         <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">320 ₽ за 50 г</param>
@@ -97,7 +88,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-farm.jpg</picture>
         <price>390</price>
         <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">390 ₽ за 50 г</param>
@@ -109,7 +100,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/dianhong-farm.jpg</picture>
         <price>430</price>
         <currencyId>RUB</currencyId>
-        <categoryId>14</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">430 ₽ за 50 г</param>
@@ -121,7 +112,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/moli-huacha.jpg</picture>
         <price>230</price>
         <currencyId>RUB</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">230 ₽ за 50 г</param>
@@ -133,7 +124,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/earl-grey.jpg</picture>
         <price>240</price>
         <currencyId>RUB</currencyId>
-        <categoryId>16</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">240 ₽ за 50 г</param>
@@ -145,7 +136,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/black-thyme.jpg</picture>
         <price>199</price>
         <currencyId>RUB</currencyId>
-        <categoryId>16</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">199 ₽ за 50 г</param>
@@ -157,7 +148,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/cherry-punch.jpg</picture>
         <price>210</price>
         <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">210 ₽ за 50 г</param>
@@ -169,7 +160,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/quince-peach.jpg</picture>
         <price>290</price>
         <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">290 ₽ за 50 г</param>
@@ -181,7 +172,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/strawberry-cream.jpg</picture>
         <price>270</price>
         <currencyId>RUB</currencyId>
-        <categoryId>16</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">270 ₽ за 50 г</param>
@@ -193,7 +184,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/mulled-spice.jpg</picture>
         <price>250</price>
         <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">250 ₽ за 50 г</param>
@@ -205,7 +196,7 @@
         <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/cherry-puer.jpg</picture>
         <price>290</price>
         <currencyId>RUB</currencyId>
-        <categoryId>16</categoryId>
+        <categoryId>10</categoryId>
         <delivery>true</delivery>
         <param name="Вес">50 г</param>
         <param name="Цена">290 ₽ за 50 г</param>
