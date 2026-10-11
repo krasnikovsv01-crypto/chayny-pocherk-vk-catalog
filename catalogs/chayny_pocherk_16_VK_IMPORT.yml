@@ -6,7 +6,10 @@
     <url>https://vk.com/club242190364</url>
     <currencies><currency id="RUB" rate="1" /></currencies>
     <categories>
-      <category id="10">Чай</category>
+      <category id="100">Продукты питания</category>
+      <category id="101" parentId="100">Бакалея</category>
+      <category id="102" parentId="101">Чай, кофе, какао</category>
+      <category id="10" parentId="102">Чай</category>
     </categories>
     <offers>
       <offer id="CP-MILK-OOLONG-FUJIAN-050" available="true">
