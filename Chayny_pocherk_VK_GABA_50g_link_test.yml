@@ -8,7 +8,7 @@
       <currency id="RUB" rate="1"/>
     </currencies>
     <categories>
-      <category id="1">Китайский чай</category>
+      <category id="1">Чай</category>
       <category id="2" parentId="1">ГАБА</category>
     </categories>
     <offers>
