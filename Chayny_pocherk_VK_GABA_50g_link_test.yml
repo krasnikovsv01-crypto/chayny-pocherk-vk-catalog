@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-11 13:27">
+  <shop>
+    <name>Чайный почерк</name>
+    <company>Чайный почерк</company>
+    <url>https://vk.com/club242190364</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Китайский чай</category>
+      <category id="2" parentId="1">ГАБА</category>
+    </categories>
+    <offers>
+      <offer id="CP-GABA-RED-050" available="true">
+        <url>https://vk.com/club242190364</url>
+        <name>Красная ГАБА — 50 г</name>
+        <description>Красная ГАБА — чай, изготовленный с применением технологии обработки чайного листа в среде с ограниченным доступом кислорода. Фасовка 50 г. Цена 590 руб. Наличие и срок отправки уточняйте в сообщениях сообщества: возможен заказ под поставку. Пробная карточка каталога. Фотография иллюстративная, на ней чай ГАБА, но не обязательно данный конкретный сорт. Фото: Pannet, Wikimedia Commons, CC BY 4.0: https://commons.wikimedia.org/wiki/File:GABA_tea_01.jpg</description>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/f/f8/GABA_tea_01.jpg</picture>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
