@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-11 15:45">
+  <shop>
+    <name>Чайный почерк</name>
+    <company>Чайный почерк</company>
+    <url>https://vk.com/club242190364</url>
+    <currencies><currency id="RUB" rate="1" /></currencies>
+    <categories>
+      <category id="10">Чай</category>
+      <category id="11" parentId="10">Улуны</category>
+      <category id="12" parentId="10">ГАБА</category>
+      <category id="13" parentId="10">Пуэры</category>
+      <category id="14" parentId="10">Красный чай</category>
+      <category id="15" parentId="10">Зелёный чай</category>
+      <category id="16" parentId="10">Ароматизированный чай</category>
+      <category id="17" parentId="10">Чайные купажи</category>
+    </categories>
+    <offers>
+      <offer id="CP-MILK-OOLONG-FUJIAN-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Молочный улун Фуцзянь — 50 г</name>
+        <description>Молочный улун Фуцзянь. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/milk-oolong-fujian.jpg</picture>
+        <price>210</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-TIEGUANYIN-FUJIAN-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Те Гуань Инь Фуцзянь — 50 г</name>
+        <description>Те Гуань Инь Фуцзянь. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/tieguanyin-fujian.jpg</picture>
+        <price>380</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-GABA-FARM-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>ГАБА фермерская — 50 г</name>
+        <description>ГАБА фермерская. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-farm.jpg</picture>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-GABA-RED-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Красная ГАБА — 50 г</name>
+        <description>Красная ГАБА. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/gaba-red.jpg</picture>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-DAHONGPAO-MEDIUM-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Да Хун Пао, средняя прожарка — 50 г</name>
+        <description>Да Хун Пао, средняя прожарка. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/dahongpao-medium.jpg</picture>
+        <price>550</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-SHU-PUER-FIVE-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Шу пуэр 5-летний — 50 г</name>
+        <description>Шу пуэр 5-летний. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/shu-puer-five.jpg</picture>
+        <price>320</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-SHENG-PUER-FARM-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Шен пуэр фермерский — 50 г</name>
+        <description>Шен пуэр фермерский. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/sheng-puer-farm.jpg</picture>
+        <price>390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-DIANHONG-FARM-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Дянь Хун фермерский — 50 г</name>
+        <description>Дянь Хун фермерский. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/dianhong-farm.jpg</picture>
+        <price>430</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-MOLI-HUACHA-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Моли Хуа Ча Фуцзянь — 50 г</name>
+        <description>Моли Хуа Ча Фуцзянь. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/moli-huacha.jpg</picture>
+        <price>230</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-EARL-GREY-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Эрл Грей — 50 г</name>
+        <description>Эрл Грей. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/earl-grey.jpg</picture>
+        <price>240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-BLACK-THYME-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Чёрный с чабрецом — 50 г</name>
+        <description>Чёрный с чабрецом. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/black-thyme.jpg</picture>
+        <price>199</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-CHERRY-PUNCH-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Вишнёвый пунш — 50 г</name>
+        <description>Вишнёвый пунш. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/cherry-punch.jpg</picture>
+        <price>210</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-QUINCE-PEACH-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Айва с персиком — 50 г</name>
+        <description>Айва с персиком. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/quince-peach.jpg</picture>
+        <price>290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-STRAWBERRY-CREAM-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Земляника со сливками — 50 г</name>
+        <description>Земляника со сливками. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/strawberry-cream.jpg</picture>
+        <price>270</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-MULLED-SPICE-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Глинтвейн — 50 г</name>
+        <description>Глинтвейн. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/mulled-spice.jpg</picture>
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+      <offer id="CP-CHERRY-PUER-050" available="false">
+        <url>https://vk.com/club242190364</url>
+        <name>Вишня на пуэре — 50 г</name>
+        <description>Вишня на пуэре. Фасовка 50 г. Наличие и состав партии необходимо уточнить в сообщениях сообщества. Изображение является художественной ИИ-иллюстрацией, а не фотографией реального товара. Данные этой карточки пока проходят проверку.</description>
+        <picture>https://raw.githubusercontent.com/krasnikovsv01-crypto/chayny-pocherk-vk-catalog/main/products/cherry-puer.jpg</picture>
+        <price>290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <delivery>true</delivery>
+        <param name="Вес">50 г</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
